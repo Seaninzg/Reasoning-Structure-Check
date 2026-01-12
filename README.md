@@ -2,7 +2,7 @@ LucidLock™ Reasoning Structure Check (v2.0)
 
 DOI: https://doi.org/10.5281/zenodo.18226382
 
-IPFS: View on Pinata
+IPFS: [View on Pinata](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreiexgqizt2rnsjc3ah7ucxh3ec2fpfsyccbtsr4if2hynrimkmmpie)
 
 🔍 Overview
 
